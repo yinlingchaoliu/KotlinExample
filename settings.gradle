@@ -1,0 +1,3 @@
+rootProject.name='KotlinExample'
+include ':example'
+include ':common'
